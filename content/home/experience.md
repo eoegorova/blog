@@ -40,7 +40,7 @@ experience:
     company: RUDN
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Moscow
     date_start: '2021-09-01'
     date_end: '2025-06-01'
     description: 

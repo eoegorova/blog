@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Ekaterina Egorova
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -14,8 +13,8 @@ organizations:
     url: https://www.rudn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have a passion for reading books, watching movies. I also like to learn new things.
-
+bio: I have a passion for reading books, watching movies. I also like to learn new things./
+У меня есть страсть к чтению книг, просмотру фильмов. Мне также нравится узнавать новое.
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
@@ -25,7 +24,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Business Informatics,2022.
+    - course:  RUDN Business Informatics,2022./ РУДН Бизнес-информатика, 2022.
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -57,7 +56,7 @@ highlight_name: true
 ---
 
 My name is Egorova Ekaterina. Study at university.
-I do programming. I read books in my free time
+I do programming. I read books in my free time/Меня зовут Егорова Екатерина. Учеба в университете.Я занимаюсь программированием. Я читаю книги в свободное время
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

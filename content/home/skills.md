@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Skills/ навыки
 subtitle:
 
 # Showcase personal skills or business features.
@@ -19,15 +19,15 @@ feature:
   - description: 40%
     icon: ":horse:"
     icon_pack: emoji
-    name: riding a horse
+    name: riding a horse/конный спорт
   - description: 90%
     icon: ":blueberries:"
     icon_pack: emoji
-    name: draw
+    name: draw/ рисование
   - description: 10%
     icon: ":cherries:"
     icon_pack: emoji
-    name: photography
+    name: photography/ фотографии 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
